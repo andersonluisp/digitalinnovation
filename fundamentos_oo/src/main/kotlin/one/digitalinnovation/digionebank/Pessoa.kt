@@ -9,4 +9,5 @@ fun main() {
     val anderson = Pessoa()
     println(anderson.nome)
     println(anderson.cpf)
+    println("Teste")
 }
